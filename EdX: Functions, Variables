@@ -1,1 +1,5 @@
-print("Hello, world!")
+#return values
+#variables
+name = input("What's your name?")
+# "=" is an assignment value
+print("Hello, David")
